@@ -1,0 +1,8 @@
+# Local / editor cruft
+.DS_Store
+.claude/
+__pycache__/
+*.pyc
+
+# Legacy code — excluded from this repo
+legacy/
